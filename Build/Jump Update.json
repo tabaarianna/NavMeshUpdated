@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "AT_HeroBorn",
+"productVersion": "0.1",
+"dataUrl": "Jump Update.data.unityweb",
+"wasmCodeUrl": "Jump Update.wasm.code.unityweb",
+"wasmFrameworkUrl": "Jump Update.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.14f1"
+}
